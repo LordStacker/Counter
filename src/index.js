@@ -3,6 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "jquery";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'react-bootstrap-icons'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
+import 'bootstrap-icons/font/bootstrap-icons.css';
+
+
 
 ReactDOM.render(
   <React.StrictMode>
